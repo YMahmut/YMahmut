@@ -1,4 +1,4 @@
-### 👋 Welcome to my GitHub profile! Here you can find all of my public repositories and projects.
+### 👋 Welcome to my GitHub profile!
 
 ###
 
